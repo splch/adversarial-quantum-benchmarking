@@ -1,3 +1,5 @@
 qiskit[visualization]
 qiskit-aer
 jupyter
+tqdm
+scikit-learn
